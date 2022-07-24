@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A87BF98288DCD9C00D5E6B3 /* StockGoingUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A87BF97288DCD9C00D5E6B3 /* StockGoingUp.swift */; };
+		6A87BF9A288DD13700D5E6B3 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A87BF99288DD13700D5E6B3 /* MapView.swift */; };
 		6AA3C49E288B43A000D48DF4 /* Investment_TrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA3C49D288B43A000D48DF4 /* Investment_TrackerApp.swift */; };
 		6AA3C4A0288B43A000D48DF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA3C49F288B43A000D48DF4 /* ContentView.swift */; };
 		6AA3C4A2288B43A100D48DF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3C4A1288B43A100D48DF4 /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6A87BF97288DCD9C00D5E6B3 /* StockGoingUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockGoingUp.swift; sourceTree = "<group>"; };
+		6A87BF99288DD13700D5E6B3 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		6AA3C49A288B43A000D48DF4 /* Investment Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Investment Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AA3C49D288B43A000D48DF4 /* Investment_TrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Investment_TrackerApp.swift; sourceTree = "<group>"; };
 		6AA3C49F288B43A000D48DF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 				6AA3C49D288B43A000D48DF4 /* Investment_TrackerApp.swift */,
 				6AA3C49F288B43A000D48DF4 /* ContentView.swift */,
 				6AA3C4A1288B43A100D48DF4 /* Assets.xcassets */,
+				6A87BF97288DCD9C00D5E6B3 /* StockGoingUp.swift */,
+				6A87BF99288DD13700D5E6B3 /* MapView.swift */,
 				6AA3C4A3288B43A100D48DF4 /* Preview Content */,
 			);
 			path = "Investment Tracker";
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AA3C4A0288B43A000D48DF4 /* ContentView.swift in Sources */,
+				6A87BF9A288DD13700D5E6B3 /* MapView.swift in Sources */,
 				6AA3C49E288B43A000D48DF4 /* Investment_TrackerApp.swift in Sources */,
+				6A87BF98288DCD9C00D5E6B3 /* StockGoingUp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
